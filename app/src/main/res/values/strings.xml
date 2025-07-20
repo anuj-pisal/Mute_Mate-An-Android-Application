@@ -1,0 +1,180 @@
+<resources>
+    <string name="register_slogan">Connect with friends, share moments</string>
+    <string name="image_desc">App Logo</string>
+    <string name="login_text">Sign In</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="submit_text">Login</string>
+    <string name="register_redirect">Don\'t have an account? <b>Register Now</b></string>
+
+    <string name="app_name">MuteMate</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="streak">00</string>
+    <string name="xp">0000XP</string>
+    <string name="unit_no">Unit 1</string>
+    <string name="unit_title">Learning Basics</string>
+    <string name="title1">Beginning with Basics</string>
+    <string name="title2">Going through the Greetings</string>
+    <string name="title3">Mastering the Everyday signs</string>
+    <string name="title4">Focusing like never before</string>
+    <string name="title5">Starting Conversations</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="level1">Level 1 - Starting with A</string>
+    <string name="start">Start +100 XP</string>
+    <string name="notes">Make some notes..</string>
+
+    <string name="username_text">Username</string>
+    <string name="signup_text">SignUp</string>
+    <string name="already_account_text">Already have an account?Login</string>
+    <string name="name_text">Name</string>
+    <string name="e_mail_text">E-mail</string>
+    <string name="country_text">Country</string>
+    <string name="birthdate_text">Birthdate</string>
+    <string name="contact_text">Contact</string>
+    <string name="gender_text">Gender</string>
+    <string name="rb_male">Male</string>
+    <string name="female_text">Female</string>
+    <string name="pr_other_text">Other</string>
+    <string name="profile_enter_username">Enter Username</string>
+    <string name="profile_enter_email">Enter email</string>
+    <string name="profile_enter_contact">Enter Contact</string>
+    <string name="profile_save_text">Save</string>
+
+
+    <string-array name="country_list">
+        <item>India</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string name="test1_q1">1. The sign language has it\'s own ______ .</string>
+    <string name="test1_q2">2. The sign language is the visual language that has it\'s own ______ .</string>
+    <string name="test1_q3">3. Which alphabet does this hand sign indicates -</string>
+    <string name="test1_q4">4. Which alphabet does this hand sign indicates -</string>
+    <string name="test1_q5">5. Which number does this hand sign indicates -</string>
+    <string name="test1_q6">6. Which number does this hand sign indicates -</string>
+    <string name="test1_q7">7. Which color does this hand sign indicates -</string>
+    <string name="test1_q8">8. Which color does this hand sign indicates -</string>
+    <string name="test1_q9">9. Which emotion does this hand sign indicates -</string>
+    <string name="test1_q10">10. Which emotion does this hand sign indicates -</string>
+
+    <string name="test2_q1">1. Sign Languages are _____</string>
+    <string name="test2_q2">2. Which body part is most important when using sign language?</string>
+    <string name="test2_q3">3. Which family member does this hand sign indicates -</string>
+    <string name="test2_q4">4. Which family member does this hand sign indicates -</string>
+    <string name="test2_q5">5. Which greeting does this hand sign indicates -</string>
+    <string name="test2_q6">6. Which greeting does this hand sign indicates -</string>
+    <string name="test2_q7">7. Which animal does this hand sign indicates -</string>
+    <string name="test2_q8">8. Which animal does this hand sign indicates -</string>
+    <string name="test2_q9">9. Which day of the week does this hand sign indicates -</string>
+    <string name="test2_q10">10. Which day of the week does this hand sign indicates -</string>
+
+    <string name="test3_q1">1. What do facial expressions represent in sign language?</string>
+    <string name="test3_q2">2. What does the \"I Love You\" sign in sign language look like?</string>
+    <string name="test3_q3">3. What does the following sign means -</string>
+    <string name="test3_q4">4. What does the following sign means -</string>
+    <string name="test3_q5">5. Which sport does this hand sign indicates -</string>
+    <string name="test3_q6">6. Which sport does this hand sign indicates -</string>
+    <string name="test3_q7">7. Which food item does this hand sign indicates -</string>
+    <string name="test3_q8">8. Which beverage does this hand sign indicates -</string>
+    <string name="test3_q9">9. What does the following sign means  -</string>
+    <string name="test3_q10">10. What does the following sign means  -</string>
+
+    <string name="test4_q1">1. Which of the following is TRUE about sign language grammar?</string>
+    <string name="test4_q2">2. What does the term \"Deaf culture\" refer to?</string>
+    <string name="test4_q3">3. What does the following sign means -</string>
+    <string name="test4_q4">4. What does the following sign means -</string>
+    <string name="test4_q5">5. What does the following sign means -</string>
+    <string name="test4_q6">6. What does the following sign means -</string>
+    <string name="test4_q7">7. What does the following sign means -</string>
+    <string name="test4_q8">8. What does the following sign means -</string>
+    <string name="test4_q9">9. What does the following sign means  -</string>
+    <string name="test4_q10">10. What does the following sign means  -</string>
+
+    <string name="test5_q1">1.  What is the first university for the deaf in the world?</string>
+    <string name="test5_q2">2. How many official sign languages are there worldwide?</string>
+
+    <string name="test_success">All Good !</string>
+    <string name="test_fail">Please, Try Again !</string>
+    <string name="test_accuracy">Accuracy - 100%</string>
+    <string name="test_time_taken">Time taken - 02:02</string>
+    <string name="ok">OK</string>
+    <string name="reset">Reset</string>
+
+    <string name="app_title">Sign Language Translator</string>
+    <string name="mode_sign_to_text">Sign Language to Speech</string>
+    <string name="mode_text_to_sign">Speech to Sign Language</string>
+    <string name="camera_guide">Position your hands within the frame</string>
+    <string name="text_hint">Detected signs will appear here…</string>
+    <string name="speak_hint">Speak to see translation…</string>
+    <string name="btn_speech_output">Speak Text</string>
+    <string name="btn_start_listening">Start Listening</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_processing">Processing…</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_translating">Translating…</string>
+
+    <!-- Alerts and dialogs -->
+    <string name="permissions_required">Permissions Required</string>
+    <string name="grant_permissions">This app requires camera and microphone permissions to function properly. Please grant these permissions in the app settings.</string>
+    <string name="error_camera">Camera error: %1$s</string>
+    <string name="error_speech">Speech recognition error: %1$s</string>
+    <string name="error_translation">Translation error: %1$s</string>
+
+    <!-- Settings and preferences -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="camera_toggle">Switch Camera</string>
+    <string name="detection_sensitivity">Detection Sensitivity</string>
+    <string name="about">About</string>
+
+    <string name="app_logo">App Logo</string>
+
+    <!-- Tab Labels -->
+    <string name="tab_sign_to_text">Sign to Text</string>
+    <string name="tab_text_to_sign">Text to Sign</string>
+
+    <!-- Camera Controls -->
+    <string name="flash_toggle">Toggle Flash</string>
+
+    <!-- Results Area -->
+    <string name="results_header">Recognition Results</string>
+    <string name="confidence">Confidence:</string>
+
+    <!-- Action Buttons -->
+    <string name="btn_copy">Copy Text</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Status Messages -->
+    <string name="status_active">Actively translating</string>
+    <string name="status_error">Error: Please try again</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_speed">Translation Speed</string>
+    <string name="settings_accuracy">Accuracy Level</string>
+
+    <!-- Misc -->
+    <string name="no_camera_permission">Camera permission is required for translation</string>
+    <string name="gesture_recognized">Gesture recognized</string>
+    <string name="help_tip">Tip: Keep your hand within the green circle</string>
+
+    <string name="status_detected">Sign detected</string>
+
+
+    <string name="status_enter_text">Enter text to translate to sign language</string>
+    <string name="sign_to_speech_title">Sign to Speech</string>
+    <string name="speech_to_sign_title">Speech to sign</string>
+
+
+</resources>

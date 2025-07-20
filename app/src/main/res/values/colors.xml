@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="NavyBlue">#05445E</color>
+    <color name="Grotto">#189AB4</color>
+    <color name="Blue_Green">#75E6DA</color>
+    <color name="Baby_Blue">#D4F1F4</color>
+    <color name="Blue_Grotto">#189AB4</color>
+    <color name="light_gray">#C8C4C4</color>
+    <color name="green">#4BE24F</color>
+    <color name="none">#00000000</color>
+    <color name="Cool_Gray">#A0AAB2</color>
+    <color name="Darker_Gray">#6D6B6B</color>
+    <color name="red">#FF5050</color>
+    <color name="teal_700">#018786</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary_light">#C5CAE9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent_light">#FF80AB</color>
+    <color name="lightGray">#EEEEEE</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="colorBackground">#F5F9FC</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="statusActive">#4CAF50</color>
+    <color name="statusInactive">#F44336</color>
+    <color name="statusWarning">#FFC107</color>
+</resources>
